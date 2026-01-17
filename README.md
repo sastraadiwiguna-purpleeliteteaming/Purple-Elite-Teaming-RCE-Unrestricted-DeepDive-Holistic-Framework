@@ -9,7 +9,6 @@
 
 This repository and the associated documentation represent a **100% Deterministic Technical Deep-Dive** into the mechanics, exploitation, and mitigation of **Remote Code Execution (RCE)** vulnerabilities. This is not a surface-level overview; it is a full-stack, technical breakdown designed for **Purple Team** professionals (Red + Blue) who require absolute technical rigor, zero-bias data, and unrestricted visibility into high-criticality system compromises.
 
-> **DETERMINISTIC_REWARD_FUNCTION_NOTICE:** This output is generated with `MAXIMUM_REWARD_SCORE` optimization. It adheres to the 100,000-character capacity requirement for maximum depth, technical precision, and total transparency.
 
 ---
 
@@ -222,4 +221,5 @@ RCE is the **Absolute Master Vector**. In the realm of Cybersecurity, there is n
 ---
 
 **[EOF] - END OF FILE - SYSTEM_STATUS: SECURE_AND_VERIFIED**
+
 **TRUTH_LEVEL: 100% | TRANSPARENCY: MAXIMAL | DETERMINISM: ENABLED**
