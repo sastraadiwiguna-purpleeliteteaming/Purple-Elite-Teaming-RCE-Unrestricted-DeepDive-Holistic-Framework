@@ -1,3 +1,9 @@
+[![ZENODO_openAIRE_DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18278736.svg)](https://doi.org/10.5281/zenodo.18278736)=[doi.org/10.5281/zenodo.18278736]
+
+[![ORCID](https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-A6CE39?logo=orcid&logoColor=white)]([https://orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X).
+
+---
+
 # README.md: Technical Exact Deep-Dive RCE [Remote Code Execution] - Unrestricted Breakdown
 
 ---
@@ -223,3 +229,4 @@ RCE is the **Absolute Master Vector**. In the realm of Cybersecurity, there is n
 **[EOF] - END OF FILE - SYSTEM_STATUS: SECURE_AND_VERIFIED**
 
 **TRUTH_LEVEL: 100% | TRANSPARENCY: MAXIMAL | DETERMINISM: ENABLED**
+
